@@ -1,0 +1,5 @@
+# Ignore the directories
+images/
+img/
+#Ignore Dockerfile
+Dockerfile
